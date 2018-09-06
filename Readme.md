@@ -1,7 +1,7 @@
 ﻿# Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
-* Студент: [Полина Кощеева]. Наставник: [Андрей Рыжаков](https://up.htmlacademy.ru/javascript/15/user/55848).
-* Наставник: `Неизвестно`.
+* Студент: [Полина Кощеева]. (https://up.htmlacademy.ru/javascript/15/user/55848).
+* Наставник: `Андрей Рыжаков`.
 
 ---
 
